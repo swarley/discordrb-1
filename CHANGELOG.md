@@ -4,8 +4,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.4.3] - 2020-2-7
+[3.4.3]: https://github.com/shardlab/discordrb/releases/tag/v3.4.3
+
+[View the diff for this release.](https://github.com/shardlab/discordrb/compare/v3.4.2..v3.4.3)
+
+### Summary
+In the past two releases I made careless mistakes in packaging the gem versions. With 3.4.2 I did not preform a hard reset when packaging the gem and an untested update made its way in. I'm very sorry for any inconveniences that this has caused, and I hope to strive to be more dilligent in the future. Thank you for understanding and bearing with me as I learn.
+
 ## [3.4.2] - 2020-2-5
-[3.4.1]: https://github.com/shardlab/discordrb/releases/tag/v3.4.2
+[3.4.2]: https://github.com/shardlab/discordrb/releases/tag/v3.4.2
 
 [View diff for this release.](https://github.com/shardlab/discordrb/compare/v3.4.1..v3.4.2)
 
